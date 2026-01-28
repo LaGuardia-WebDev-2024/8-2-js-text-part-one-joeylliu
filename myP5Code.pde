@@ -15,7 +15,13 @@ draw = function(){
   }
 
   //🎯New Text Code Should Go Here 🡻
+fill(131,232,121);
+textSize(30);
+text("joey", 280, 70);
 
+fill(101,232,277);
+textSize(24);
+text("i have 3 cats", 235, 200);
 };
 
 //🟡Mouse Pressed Procedue - Runs When Mouse is Pressed on Canvas
